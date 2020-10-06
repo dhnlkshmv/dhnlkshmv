@@ -1,4 +1,4 @@
-## `<Hello, World!>`
+## `Hello, World!`
 
 ## Tech Stack
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
