@@ -1,6 +1,6 @@
-## `Hello, World!`
+#### `Hello, World!`
 
-## Tech Stack
+#### Technology Stack
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![Dash](https://img.shields.io/badge/-Dash-434d74?style=flat-square&logo=dash&logoColor=ffffff)](https://dash.plotly.com/)
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
@@ -15,7 +15,7 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
 [![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=61DBFB)](https://reactjs.org/)
 
-## Reach me at
+#### Reach me at
 [![LinkedIn](https://img.shields.io/badge/linkedin-006192.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/xvidviii/)
 
 **Pronouns:** *she/her*
