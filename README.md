@@ -16,7 +16,7 @@
 [![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=61DBFB)](https://reactjs.org/)
 
 #### Reach me at
-[![LinkedIn](https://img.shields.io/badge/linkedin-006192.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/xvidviii/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-006192.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/dhnlkshmv/)
 
 **Pronouns:** *she/her*
 
